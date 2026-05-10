@@ -16,6 +16,7 @@ A deep learning project for Vietnam stock market analysis, covering price predic
 ├── data/
 │   ├── nasdaq/
 │   └── vn/
+├── .gitattributes
 └── README.md
 ```
 
