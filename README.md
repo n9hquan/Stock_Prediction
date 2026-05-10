@@ -31,10 +31,10 @@ A deep learning project for Vietnam stock market analysis, covering price predic
 ```
 
 ## Running on Google Colab
- 
+
 1. Open any notebook in [Google Colab](https://colab.research.google.com/)
 2. Upload the required CSV files:
-- For Task 1: Use data from nasdaq data
-- For Task 2, 3: Use historical data from vn stock historical data
-- For Task 4: Use vn dividend history, industry-analysis, and stock historical data of the same company
+   - For Task 1: Use nasdaq data
+   - For Task 2, 3: Use historical data from vn stock historical data
+   - For Task 4: Use vn dividend history, industry-analysis, and stock historical data of the same company
 3. Run all cells in order (`Runtime → Run all`)
