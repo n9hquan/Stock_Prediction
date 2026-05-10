@@ -5,12 +5,12 @@ A deep learning project for Vietnam stock market analysis, covering price predic
 ## Project Structure
 ```
 ├── notebooks/
-│   ├── Task_1.1.ipynb   # Single-feature stock price prediction
-│   ├── Task_1.2.ipynb   # Multi-feature stock price prediction
-│   ├── Task_1.3.ipynb   # Next-day price prediction with cross-validation
+│   ├── Task_1.1.ipynb   # Nasdaq multi-feature price prediction
+│   ├── Task_1.2.ipynb   # Nasdaq k-th day ahead forecast
+│   ├── Task_1.3.ipynb   # Nasdaq k consecutive days forecast
 │   ├── Task_2.1.ipynb   # Vietnam multi-feature price prediction
-│   ├── Task_2.2.ipynb   # k-th day ahead forecast
-│   ├── Task_2.3.ipynb   # k consecutive days forecast
+│   ├── Task_2.2.ipynb   # Vietnam k-th day ahead forecast
+│   ├── Task_2.3.ipynb   # Vietnam k consecutive days forecast
 │   ├── Task_3.ipynb     # Buy/Sell trading signal identification
 │   └── Task_4.ipynb     # Portfolio construction & risk management
 ├── data/
