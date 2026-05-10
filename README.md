@@ -20,7 +20,9 @@ A deep learning project for Vietnam stock market analysis, covering price predic
 ```
 
 ## Data
+
 **NASDAQ** (used in Task 1): standard OHLCV CSV files.
+
 **Vietnam** (used in Task 2, 3, 4): CSV files follow this naming convention:
 ```
 {COMPANY}-{EXCHANGE}-History.csv     # e.g. VNM-VNINDEX-History.csv
